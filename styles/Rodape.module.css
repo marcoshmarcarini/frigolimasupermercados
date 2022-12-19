@@ -1,0 +1,9 @@
+.rodape{
+    display: flex;
+    gap: 5px;
+}
+
+.link:hover{
+    color: #f39c12;
+    transition: all 400ms;
+}
