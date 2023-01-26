@@ -11,7 +11,7 @@ export default function Links(){
             <Link href={`https://t.me/frigolima`} className={style.cardLink}>
                 <p>Telegram</p>
             </Link>
-            <Link href={`https://forms.gle/cZCiLpQe5iCVgM8F9`} className={style.cardLink}>
+            <Link href={`https://triban.co/HwTBI`} className={style.cardLink}>
                 <p>Faça seu cartão Frigolima</p>
             </Link>
             <Link href={`http://acaps.org.br/super_rh`} className={style.cardLink}>
