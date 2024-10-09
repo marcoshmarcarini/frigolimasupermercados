@@ -4,7 +4,7 @@ import Link from "next/link"
 export default function Links() {
     return (
         <div className={style.linkArea}>
-            <p>Acesse os nossos principais links abaixo.</p>
+            <p className={style.title}>Acesse os nossos principais links abaixo.</p>
             <Link href={`https://wa.me/5528999910448?text=Olá!%20Quero%20participar%20da%20lista%20de%20transmissão.%20`} className={style.cardLink}>
                 <p>WhatsApp (Lista de Transmissão)</p>
             </Link>

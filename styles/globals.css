@@ -13,6 +13,7 @@ background: linear-gradient(90deg, #f8ff00 0%, #3ad59f 100%);
   --gradiente-verde: linear-gradient(90deg, #f8ff00 0%, #3ad59f 100%);
   --gradiente-vermelho: linear-gradient(90deg, #d53369 0%, #daae51 100%);
   --gradiente-branco: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
+  --gradiente-frigolima: linear-gradient(90deg, #bef58b 0%, #ec6272 100%);
 }
 
 * {
