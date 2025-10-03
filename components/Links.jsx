@@ -14,7 +14,7 @@ export default function Links() {
             <Link href={`https://triban.co/HwTBI`} className={style.cardLink}>
                 <p>Faça seu cartão Frigolima</p>
             </Link>
-            <Link href={`https://frigolimasupermercados.vagas.solides.com.br/`} className={style.cardLink}>
+            <Link href={`https://frigolimasupermercados.vagas.solides.com.br`} className={style.cardLink}>
                 <p>Trabalhe conosco</p>
             </Link>
             <Link href={`https://www.dropbox.com/s/4s8lsl6ypnx1uvi/Regulamento_sacolas_reutilizaveis__supermercado_frigolima.docx?dl=0`} className={style.cardLink}>
